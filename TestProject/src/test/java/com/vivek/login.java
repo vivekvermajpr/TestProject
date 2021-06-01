@@ -7,6 +7,7 @@ public class login {
 
 	
 		System.out.println("Verification Successful - The correct Url is opened.");
+		System.out.println("Verification Successful - Thanks.");
 	 
 	}
 	
